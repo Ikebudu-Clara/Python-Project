@@ -27,6 +27,12 @@ The Car Inventory Analysis project is designed to explore and analyze key insigh
 
 # CAR INVENTORY ANALYSIS PROJECT
 
+## Table of Content
+
+- [Project Overview](#project-overview)
+- [Results](#results)
+- [Recommendation](#recommendation)
+  
 
 ### Project Overview 
 
